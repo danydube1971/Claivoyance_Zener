@@ -1,7 +1,7 @@
 """Ce script permet de mesurer le niveau de clairvoyance basé sur les formes de Zener. L'utilisateur doit
 deviner la forme que la machine à choisi. Ce test s'effectue sur 25 essais consécutif.
 À la fin du test, il affiche le nombre d'essais réussis pour chaque forme ainsi que le pourcentage de 
-probabilité du hasard'
+probabilité du hasard
 
 Pour déterminer si le nombre de bonnes réponses devinées dépasse les probabilités dites normales, vous pouvez calculer la 
 probabilité d'obtenir ce nombre de réponses correctes par hasard, en utilisant la distribution binomiale.
