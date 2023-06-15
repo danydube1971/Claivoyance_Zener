@@ -21,3 +21,9 @@ où nCx est le coefficient binomial "n choose x", qui peut être calculé avec l
 Dans ce cas, n est égal à 25 (le nombre total d'essais) et p est la probabilité de deviner correctement une réponse, qui est de 1/5 ou 0,2 (puisque nous avons 5 formes possibles). Pour calculer la probabilité d'obtenir x réponses correctes, vous pouvez remplacer ces valeurs dans la formule ci-dessus.
 
 Une fois que vous avez calculé la probabilité, vous pouvez comparer cette valeur à un seuil de significativité, comme 0,05. Si la probabilité d'obtenir le nombre de bonnes réponses devinées par hasard est inférieure à ce seuil, vous pouvez conclure que le résultat est statistiquement significatif et que la performance du joueur dépasse ce que l'on pourrait attendre par hasard.
+
+-----------------------------
+**Comment utiliser le script**
+
+Exécuter le script dans un terminal avec la commande : **python3 "Clairvoyance_Zener.py"**
+
