@@ -27,3 +27,6 @@ Une fois que vous avez calculé la probabilité, vous pouvez comparer cette vale
 
 Exécuter le script dans un terminal avec la commande : **python3 "Clairvoyance_Zener.py"**
 
+![Clairevoyance_Zener_V3](https://github.com/danydube1971/Claivoyance_Zener/assets/74633244/3aedf5fa-3f93-4063-afb5-d7fd1f02c771)
+
+
